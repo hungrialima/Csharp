@@ -1,0 +1,14 @@
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\bin\Debug\net8.0\ExerAula2.exe
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\bin\Debug\net8.0\ExerAula2.deps.json
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\bin\Debug\net8.0\ExerAula2.runtimeconfig.json
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\bin\Debug\net8.0\ExerAula2.dll
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\bin\Debug\net8.0\ExerAula2.pdb
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.AssemblyInfoInputs.cache
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.AssemblyInfo.cs
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.csproj.CoreCompileInputs.cache
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.dll
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\refint\ExerAula2.dll
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.pdb
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ExerAula2.genruntimeconfig.cache
+C:\Users\hungr\OneDrive\Estudos TI\FIAP\C#\ExerAula2\obj\Debug\net8.0\ref\ExerAula2.dll
